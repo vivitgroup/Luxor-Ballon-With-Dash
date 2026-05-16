@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "operators": "Operators",
+    "flights": "Flights",
+    "booking": "Book Now",
+    "blog": "Blog",
+    "contact": "Contact",
+    "admin": "Admin Dashboard"
+  },
+  "hero": {
+    "title": "Soar Above Egypt's Ancient Wonders",
+    "subtitle": "Experience the magic of Luxor from the sky",
+    "subtitle_ar": "جرب سحر الأقصر من السماء",
+    "searchPlaceholder": "Search flights...",
+    "flightsCount": "500+ Flights",
+    "rating": "4.9 Rating",
+    "safety": "100% Safe",
+    "bookNow": "Book Your Flight",
+    "explore": "Explore Operators"
+  },
+  "booking": {
+    "title": "Book Your Balloon Ride",
+    "step1": "Select Date",
+    "step2": "Passengers",
+    "step3": "Package",
+    "step4": "Payment",
+    "date": "Flight Date",
+    "passengers": "Passengers",
+    "package": "Package Type",
+    "standard": "Standard",
+    "premium": "Premium",
+    "private": "Private Charter",
+    "priceFrom": "From",
+    "minPriceError": "Minimum price per seat is $79",
+    "sunriseSlots": "Sunrise Flight Slots",
+    "slot5am": "5:00 AM",
+    "slot530am": "5:30 AM",
+    "slot6am": "6:00 AM",
+    "seatsAvailable": "seats available",
+    "totalPrice": "Total Price",
+    "proceed": "Proceed to Payment",
+    "back": "Back",
+    "next": "Next Step"
+  },
+  "operators": {
+    "title": "Balloon Operators",
+    "subtitle": "Choose from the best hot air balloon companies in Luxor",
+    "rating": "Rating",
+    "flights": "flights",
+    "bookNow": "Book Now",
+    "compare": "Compare Operators",
+    "filters": "Filters",
+    "all": "All Operators",
+    "topRated": "Top Rated",
+    "mostFlights": "Most Flights"
+  },
+  "packages": {
+    "standard": {
+      "name": "Standard",
+      "description": "1 hour shared balloon flight with 8-12 people",
+      "features": ["1 hour flight", "Shared basket (8-12 people)", "Hotel pickup", "Flight certificate"]
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "1 hour flight with better views and champagne breakfast",
+      "features": ["1 hour flight", "Smaller basket (4-6 people)", "Champagne breakfast", "Priority boarding", "HD photos"]
+    },
+    "private": {
+      "name": "Private Charter",
+      "description": "Entire balloon for your group, any size",
+      "features": ["Private entire balloon", "Custom flight path", "Champagne celebration", "Personal photographer", "VIP transport"]
+    }
+  },
+  "reviews": {
+    "title": "What Our Guests Say",
+    "subtitle": "Real reviews from real adventurers",
+    "writeReview": "Write a Review",
+    "verified": "Verified Booking"
+  },
+  "weather": {
+    "title": "Flight Weather",
+    "condition": "Condition",
+    "wind": "Wind",
+    "temp": "Temperature",
+    "visibility": "Visibility",
+    "goodForFlight": "Good for flight",
+    "caution": "Caution advised",
+    "cancelled": "Flights cancelled"
+  },
+  "trust": {
+    "title": "Trust & Safety",
+    "licensed": "Licensed Operators",
+    "insured": "Fully Insured",
+    "experienced": "Expert Pilots",
+    "maintained": "Regular Maintenance"
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Moments captured above the Nile"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "sendMessage": "Send Message",
+    "name": "Your Name",
+    "message": "Message"
+  },
+  "about": {
+    "title": "About Luxor Balloons",
+    "story": "Our Story",
+    "mission": "Our Mission",
+    "team": "Our Team"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "bookings": "Bookings",
+    "operators": "Operators",
+    "flights": "Flights",
+    "payments": "Payments",
+    "users": "Users",
+    "reviews": "Reviews",
+    "settings": "Settings",
+    "totalRevenue": "Total Revenue",
+    "todayBookings": "Today's Bookings",
+    "activeOperators": "Active Operators",
+    "avgRating": "Average Rating",
+    "recentBookings": "Recent Bookings",
+    "revenueChart": "Revenue Chart",
+    "quickActions": "Quick Actions",
+    "addOperator": "Add Operator",
+    "addFlight": "Add Flight",
+    "viewReports": "View Reports"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "close": "Close",
+    "confirm": "Confirm",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Info"
+  }
+}
